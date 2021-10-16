@@ -5,7 +5,9 @@
       <h1>X-UI</h1>
       <h2>Vue 2 UI 框架</h2>
       <p class="actions">
-        <a href="https://github.com/wuwenxing0912/vue3-ui" target="blank">Github</a>
+        <a href="https://github.com/wuwenxing0912/vue2-ui" target="blank"
+          >Github</a
+        >
         <router-link to="/document">开始</router-link>
       </p>
     </div>
@@ -13,7 +15,7 @@
 </template>
 
 <script lang="js">
-import TopNav from "../components/TopNav.vue";
+import TopNav from "./TopNav.vue";
 export default {
   components: {
     TopNav,

@@ -18,28 +18,4 @@ npm run build
 npm run build --report
 ```
 
-```
-test-1
-```
-
-
-```
-test-2
-```
-
-```
-test-2
-```
-
-```
-test-3
-```
-
-```
-test-3
-```
-
-```
-test-1
-```
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
